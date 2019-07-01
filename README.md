@@ -13,12 +13,14 @@ This course will continue on from the DeCART Python boot camp, by developing Pyt
 * [vprof](https://github.com/nvdv/vprof)
 ## Linear Algebra Topics
 
-* Vector representation
-* Vector algebra
-* Matrices
-* Matrix multiplication
-* Eigenvalues
-* Matrix Inversion and SVD
+* Vector and matrix representation and basic mathematical operations
+* Vector spaces
+* Gaussian elimination
+* Basis vectors, dimensionality, norm
+* Null space, column space, and row space
+* Orthogonal projections
+* Least squares
+
 
 ## Prerequisities
 
@@ -27,6 +29,29 @@ Students should have prior Python programming experience (such as the boot camp 
 Students will need their own laptop with Anaconda installed.
 
 ## Course Schedule
+
+* Linear Equations
+  * Systems of linear equations
+  * Row reduction - Gaussian elimination
+  * Vector equations
+  * Matrix equations
+  * Solutions sets
+  * Linear independence
+* Matrices
+  * Linear transformations
+  * Matrix operations
+  * Inverses of matrices
+* Vector Spaces
+  * Vector spaces
+  * Null space
+  * Column space, row space
+  * Linearly independent sets, bases
+  * Coordinate systems, dimension
+* Orthogonality and Least Squares
+  * Inner products
+  * Orthogonal sets
+  * Orthogonal projections
+  * Least-Squares
 
 * Introduction to Spyder
   * Debugging Palindrome checking
