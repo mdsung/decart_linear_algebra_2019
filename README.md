@@ -1,16 +1,11 @@
 # Advanced (Continuing) Python Programming
 ## Applications with Linear Algebra
 
-This course will continue on from the DeCART Python boot camp, by developing Python programming skills with an emphasis on problem decomposition, debugging, and profiling skills. This course will also move away from Jupyter notebooks and focus on using integrated development environments (IDEs) for writing Python scripts, modules, and packages. Programming problems will primarily be drawn from numeric linear algebra.
+This course introduces students to linear algebra principles that form the
+foundation of data science. Students will use Python to write simple programs
+to implement linear algebra concepts. Linear algebra concepts will be connected
+to important biomedical data science problems, such as text representation.
 
-## Programming Skills
-
-* Use of Spyder as an IDE for debugging
-* Use of Python profiling code to identify code refactoring opportunities
-* Use of Cython or solutions for improved performance
-* pyTest
-* PyLint
-* [vprof](https://github.com/nvdv/vprof)
 ## Linear Algebra Topics
 
 * Vector and matrix representation and basic mathematical operations
@@ -24,9 +19,8 @@ This course will continue on from the DeCART Python boot camp, by developing Pyt
 
 ## Prerequisities
 
-Students should have prior Python programming experience (such as the boot camp or equivalent).
-
-Students will need their own laptop with Anaconda installed.
+Students should have prior Python programming experience (such as the
+DeCART Python boot camp or equivalent).
 
 ## Course Schedule
 
@@ -52,33 +46,3 @@ Students will need their own laptop with Anaconda installed.
   * Orthogonal sets
   * Orthogonal projections
   * Least-Squares
-
-* Introduction to Spyder
-  * Debugging Palindrome checking
-* Vectors
-  * Profiling code with `timeit`
-  * Representing vectors with lists or tuples
-  * Vector Equality
-  * Vector algebra
-  * Inner products
-  * Writing unit tests
-* Matrices
-  * Row view of matrices
-  * Column view of matrices
-  * Matrix arithmetic
-  * Creating modules and packages
-* Numpy
-  * `numpy.matrix` vs `numpy.ndarray`
-* Gaussian elimination
-  * Without pivots
-  * Pivoting with slicing
-  * Pivoting with permutation matrices
-* Profiling with vprof
-  * Profiling pyConTextNLP
-* Orthogonality
-  * Orthogonal and non-orthogonal basis vectors
-  * Grahm Schmidt
-* Least Squares
-* Eigen Vectors
-* Sparse Vectors and Matrices
-* Singular Value Decomposition and pseudo-inverse
