@@ -1,5 +1,4 @@
-# Advanced (Continuing) Python Programming
-## Applications with Linear Algebra
+# Principles of Linear Algebra for Data Science
 
 This course introduces students to linear algebra principles that form the
 foundation of data science. Students will use Python to write simple programs
