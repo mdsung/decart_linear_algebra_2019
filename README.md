@@ -15,6 +15,12 @@ to important biomedical data science problems, such as text representation.
 * Orthogonal projections
 * Least squares
 
+## Python Topics
+
+As part of this class, students will develop a simple Python package that implements vectors, matrices, and linear algebra functions. Because the
+objective of the programming is to reinforce linear algebra principles,
+programs will be developed from native Python data structures rather than
+numpy, which would be used in practice.
 
 ## Prerequisities
 
